@@ -16,7 +16,7 @@ https://qiita.com/futakuchi0117/items/6030458a96f62cb64d37<br />
 https://qiita.com/fiftystorm36/items/b2fd47cf32c7694adc2e
 
 2. 必要なPythonパッケージをインストールします。
-```
+``` 
 pip install -r requirements.txt
 ```
 
